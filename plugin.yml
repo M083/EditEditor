@@ -1,0 +1,5 @@
+name: EE
+main: EE\core
+version: 1.0.0
+api: [2.0.0]
+author: moyasan
