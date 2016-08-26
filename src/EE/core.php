@@ -46,7 +46,7 @@ class core extends PluginBase implements Listener{
 					$player->EE->degree = 2;
 					$player->sendMessage("§b[EE] §2作成中・・・");
 					$player->EE->create();
-					$player->sendMessage("§b[EE] §2作成完了！！　ブロックを壊すとエディターを使用できるよ！！\n§2再設定する場合はスニークしてブロックをタッチしてね！！\n§モード変更する場合はスニークしてブロックを壊してね！！");					
+					$player->sendMessage("§b[EE] §2作成完了！！　ブロックを壊すとエディターを使用できるよ！！\n§2再設定する場合はスニークしてブロックをタッチしてね！！\n§2モード変更する場合はスニークしてブロックを壊してね！！");					
 				break;
 			}
 
